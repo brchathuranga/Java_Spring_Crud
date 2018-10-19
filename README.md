@@ -1,5 +1,3 @@
-# noetic_test
-Noetic Asssignment
 
 Project is built with Spring Boot.
 Import the project as a maven project.
